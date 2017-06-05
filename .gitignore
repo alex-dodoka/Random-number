@@ -1,0 +1,4 @@
+.idea
+*.iml
+bower_components/
+random_number_from_the_min_to_max.iml
